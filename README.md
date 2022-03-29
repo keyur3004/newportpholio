@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">abhiapatel</a>
+  <a href="https://abhiapatel.netlify.app/" target="_blank">abhiapatel</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme.jpg" />
