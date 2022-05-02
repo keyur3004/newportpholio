@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href="https://abhiapatel.netlify.app/" target="_blank">abhiapatel</a>
+  <a href="https://abhiapatel.netlify.app/" target="_blank">Keyur Trivedi</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme.jpg" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [abhiapatel](https://github.com/abhiapatel/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [keyur3004](https://github.com/keyur3004/newporpholio). Thanks!
 
 ## Built With
 
